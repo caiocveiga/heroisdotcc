@@ -1,0 +1,9 @@
+.banner {
+    background-color: rgba(255, 255, 255, 0.950);
+    width: 100%;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.texto {
+    color: black;
+}
